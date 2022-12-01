@@ -1,6 +1,6 @@
 # SwiftUIPlayground
 
-The project contains views with example for:
+The project contains views with examples for:
 - View Modifiers
 - State Updates
 - State and Binding
